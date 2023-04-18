@@ -3,7 +3,7 @@ layout: single
 excerpt: "Practicing Markdown for blogging"
 title: "About markdown"
 categories:
-    #- # .github.io/Algorithm 으로 향하게 된다 
+    - 'spring'
 tags:
     - ['Markdown', 'Practice']
 toc: "true"

@@ -1,12 +1,12 @@
 ---
 title: "스프링"
 layout: archive
-permalink: categories/spring
+permalink: categories/#spring
 author_profile: true
 sidebar_main: true
 ---
 
 {% raw %}
 {% assign posts = site.categories.spring %}
-{% for post in posts %} {% include archive-single.html type=page.entries_layout %} {% endfor %}
+{% for post in posts %} {% include archive-single2.html type=page.entries_layout %} {% endfor %}
 {% endraw %}

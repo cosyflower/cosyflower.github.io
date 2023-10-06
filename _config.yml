@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "cosyflower.github.io"
+title                    : "Open Space"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "cosyflower"
-description              : "SameAs Junior \n not equalTo()"
+description              : "SameAs Junior 'not' equalTo()"
 url                      : "https://cosyflower.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -126,9 +126,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/cosyflower"
-    #- label: "Instagram"
-    #  icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/nalssiwanjunmalgum"
 
 # Site Footer
 footer:

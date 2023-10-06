@@ -5,7 +5,7 @@ title: "About markdown"
 categories:
     - 'spring'
 tags:
-    - ['Markdown', 'Practice', 'spring']
+    - ['Markdown']
 toc: "true"
 toc_sticky: "true"
 

@@ -1,17 +1,17 @@
 ---
 layout: single
-excerpt: "원판을 끼우면서 하노이의 탑을"
+excerpt: "원판을 끼우면서 하노이의 탑을" # 추가 description 역할 
 title: "하노이의 탑"
 categories:
-    - algorithm # .github.io/algorithm 으로 향하게 된다 
+    - algorithm # category 일치했는지 확인하기 
 tages:
-    - [Algorithm, Recursive]
+    - [Algorithm, Recursive] # tag도 마찬가지로 같이 띄울 수 있다 
 toc: "true"
 toc_sticky: "true"
 
 date: 2023-03-22
 last_modified_at: 2023-03-22
-published: false
+published: false # true로 변경하면 노출할 수 있음 
 
 #toc: 목차 보이기 
 #toc_sticky: 자동 스크롤 가능 
@@ -19,7 +19,6 @@ published: false
 #last_modified_at: 마지막 수정 일자 
 
 #  bundle exec jekyll serve - test 하는 방법 
-
 #published: true
 ---
 # 원탑을 왜 정리를 안하실까? 

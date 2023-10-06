@@ -3,9 +3,9 @@ layout: single
 excerpt: "Practicing Markdown for blogging"
 title: "About markdown"
 categories:
-    - 'spring'
+    - 'MarkDown'
 tags:
-    - ['Markdown']
+    - ['Skeleton']
 toc: "true"
 toc_sticky: "true"
 

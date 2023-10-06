@@ -11,7 +11,7 @@ toc_sticky: "true"
 
 date: 2023-04-07
 last_modified_at: 2023-04-07
-published: True
+published: False
 
 #  bundle exec jekyll serve - test 하는 방법 
 ---

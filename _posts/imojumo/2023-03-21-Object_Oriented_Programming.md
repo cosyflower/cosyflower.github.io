@@ -12,7 +12,7 @@ categories:
 
 #  bundle exec jekyll serve - test 하는 방법 
 
-published: true
+published: false
 ---
 # 내가 알고 있는 OOP와 당신이 알고 있는 OOP
 

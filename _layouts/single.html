@@ -83,7 +83,7 @@ classes: wide
     {% endif %}
   </article>
 
-  {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
+  <!-- {% comment %}<!-- only show related on a post page when `related: true` -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
       <h2 class="page__related-title">{{ site.data.ui-text[site.locale].related_label | default: "You May Also Enjoy" }}</h2>
@@ -106,5 +106,5 @@ classes: wide
         {% endfor %}
       </div>
     </div>
-  {% endif %}
+  {% endif %} -->
 </div>

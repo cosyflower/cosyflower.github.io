@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "Open Space"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "cosyflower"
+name                     : "새로이"
 description              : "SameAs Junior 'not' equalTo()"
 url                      : "https://cosyflower.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -105,7 +105,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "cosyflower"
+  name             : "새로이"
   avatar           : "/assets/profile2.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "SameAs Junior \n not equalTo()"
   location         : "Cheonan, South Korea"

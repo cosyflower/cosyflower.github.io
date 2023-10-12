@@ -75,7 +75,7 @@ Client(User)
 
 <br>
 도통 어떻게 진행을 해야 할지 감이 안 와서 깃허브에 있는 주의사항을 더 읽어봐야 했다
-읽어보면 좋은 문서들을 찾을 수 있어서 <br><u style="text-decoration-color: yellow">좀 접한 이후에 다시 새롭게 시작을 해보겠다</u>
+읽어보면 좋은 문서들을 찾을 수 있어서 <br><mark style='background-color: #f6f8fa'>좀 접한 이후에 다시 새롭게 시작을 해보겠다</mark>
 
 
 

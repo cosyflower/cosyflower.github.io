@@ -4,7 +4,7 @@ excerpt: "원판을 끼우면서 하노이의 탑을" # 추가 description 역�
 title: "하노이의 탑"
 categories:
     - algorithm # category 일치했는지 확인하기 
-tages:
+tags:
     - [Algorithm, Recursive] # tag도 마찬가지로 같이 띄울 수 있다 
 toc: "true"
 toc_sticky: "true"
@@ -16,10 +16,13 @@ published: false # true로 변경하면 노출할 수 있음
 #toc: 목차 보이기 
 #toc_sticky: 자동 스크롤 가능 
 #date: 포스팅한 날자 
-#last_modified_at: 마지막 수정 일자 
+# last_modified_at: 마지막 수정 일자 
 
-#  bundle exec jekyll serve - test 하는 방법 
+#bundle exec jekyll serve - test 하는 방법 
 #published: true
+#title 유사하면 url도 동일하기 떄문에 처음에 작성했던 문서로 돌아간다 
+# <hr> - 개행 줄을 출력하면서 개행한다 
+# <br> - 한 줄 개행
 ---
 # 원탑을 왜 정리를 안하실까? 
 

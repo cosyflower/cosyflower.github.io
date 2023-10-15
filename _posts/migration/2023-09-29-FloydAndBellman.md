@@ -1,8 +1,8 @@
 ---
 layout: single
-title: "Floyd And Bellman"
+title: "[23.09.29] Floyd And Bellman"
 categories:
-    - wootaecourse # category 일치했는지 확인하기 
+    - beartoblog # category 일치했는지 확인하기 
 tags:
     - ['Off The Record'] # tag도 마찬가지로 같이 띄울 수 있다 
 toc: "true"
@@ -122,3 +122,11 @@ graph [ 시작점 ] [ 종점 ] = 거리 (가중치)
 ## 추가적으로 Djikstra의 경로 복원 방법에 대해서 알아보자 
 중간 중간 update 될 때 중간 경유지가 어디 인지를 계속해서 반영한다고 생각하면 되겠다 
 값이 update 되었다는 것은 해당 경로가 최소 경로임을 확인할 수 있다. 어떤 정점을 경유해서 진행되었는지 확인할 수 있는 셈이라고 할 수 있겠다 
+
+<br>
+***
+    
+    진정한 경쟁력은 자신의 가치를 공유하는 것
+
+
+[맨 위로 이동하기](#){: .btn .btn--primary }{: .align-right}

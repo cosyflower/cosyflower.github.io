@@ -38,6 +38,14 @@
                     {% endif %}
                 {% endfor %}
             </ul>
+        <span class="nav__sub-title">Technical Writing</span>
+            <ul>
+                {% for category in site.categories %}
+                    {% if category[0] == "technicalwriting" %}
+                        <li><a href="/categories/technicalwriting" class="">Technical Writing ({{category[1].size}})</a></li>
+                    {% endif %}
+                {% endfor %}
+            </ul>
         <span class="nav__sub-title">Blog skeleton</span>
             <ul>
                 {% for category in site.categories %}

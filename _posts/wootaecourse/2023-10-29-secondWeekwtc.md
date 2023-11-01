@@ -260,7 +260,7 @@ Controller의 코드를 확인해보자
 Map<>에 넣고 호출하기만 하면 되는 부분이기도 했는데, 굳이 Map<>을 활용하지 않고 new ...Controller() 하면 되지 않나? 라는 생각도 들었다 
 
 
-#### 자연스럽게 DTO로.. 또 다른 고민
+<u>#### 자연스럽게 DTO로.. 또 다른 고민</u>
 <mark style='background-color: #f6f8fa'>Model 내 DTO 그리고 VO에 대해서</mark>
 <br>
 1주차 미션을 진행하고 나서 오픈 커뮤니티 내용을 확인하던 중 DTO VO 관련 내용을 확인할 수 있었다
@@ -271,7 +271,7 @@ Map<>에 넣고 호출하기만 하면 되는 부분이기도 했는데, 굳이 
 <br> 이 부분도 분명 이전에 공부하면서 자연스럽게 접했던 개념이었는데 그렇게 크게(?) 신경을 쓰지 않은 구간이었다.
 <br> 개념이 미숙해서 먼저 테코블에서 정리된 내용을 확인했다 
 
-#### 테코블에서 정리한 DTO를 참고해보자
+<u>#### 테코블에서 정리한 DTO를 참고해보자</u>
 <mark style='background-color: #f6f8fa'>Model 내 DTO 그리고 다시 제자리로</mark>
 <hr>
 <img width="693" alt="image" src="https://github.com/cosyflower/MyStrategy/assets/128453459/a1f4f08c-37ee-4cd6-b2fa-8c7e8b90e5bd">

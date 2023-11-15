@@ -10,7 +10,7 @@ toc_sticky: "true"
 
 date: 2023-11-15
 last_modified_at: 2023-11-15
-published: true # true로 변경하면 노출할 수 있음 
+published: false # true로 변경하면 노출할 수 있음 
 
 #toc: 목차 보이기 
 #toc_sticky: 자동 스크롤 가능 

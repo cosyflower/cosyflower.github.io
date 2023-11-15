@@ -129,7 +129,7 @@ TDD 방식을 활용하고자 작은 기능에 초점을 두었던 지난 학습
 
 ### 프로그램의 의도는 "이벤트별 할인 금액 구하기"로 생각했다 
 <hr>
-![image](https://github.com/cosyflower/java-christmas-6-cosyflower/assets/128453459/c9b5aa19-caa2-4063-8fd5-de23a698b43c)
+![image](https://github.com/cosyflower/MyStrategy/assets/128453459/2346f283-03e5-44a1-b895-09d1d96c6805)
 
 의도에 맞는 클래스를 생각하면 "이벤트"는 절대적으로 필요한 요소이다. 이벤트에 맞게 할인 금액을 도출해야 하기 때문이다 
 <br>
@@ -188,6 +188,8 @@ TDD 방식을 활용하고자 작은 기능에 초점을 두었던 지난 학습
 <hr>
 <mark style='background-color: #f6f8fa'>지금 요구하고 있는 정보가 무엇이지?</mark>
 
+![image](https://github.com/cosyflower/MyStrategy/assets/128453459/9e4c02aa-67f1-44cf-a7e2-505b9217ae25)
+
 1. 주문 메뉴의 종류
 2. 총 주문 금액
 
@@ -206,11 +208,7 @@ TDD 방식을 활용하고자 작은 기능에 초점을 두었던 지난 학습
 <br>
 어떠한 클래스에도 적용되지 못한다면 -> 새로운 클래스를 형성하는 것이 맞다 
 
-![image](https://github.com/cosyflower/java-christmas-6-cosyflower/assets/128453459/cc1930be-d78f-4eee-b951-1fd5a58697cc)
-
-![image](https://github.com/cosyflower/java-christmas-6-cosyflower/assets/128453459/6142deeb-8a33-4fe1-abd2-1de4867075e3)
-
-![image](https://github.com/cosyflower/java-christmas-6-cosyflower/assets/128453459/7d75cd7e-34e1-40d6-84b6-fc7bc6e126de)
+![image](https://github.com/cosyflower/MyStrategy/assets/128453459/5de437d1-dc90-4ef8-b1d5-f6748f6085fb)
 
 
 ### 지켜야 할 사항
@@ -307,7 +305,7 @@ isEqualTo() 를 적용하는 과정에서 오버라이드를 진행하지 않으
 
 
 ***
-    <!-- footer 작성한다고 생각하기 -->
+    
     진정한 경쟁력은 자신의 가치를 공유하는 것
 
 
